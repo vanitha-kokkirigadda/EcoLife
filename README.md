@@ -35,6 +35,7 @@ It promotes eco-awareness through plastic tracking, eco pledges, daily tips, cha
 2. Run the following SQL files in order:
    - `schema.sql`
    - `policies.sql`
+   - `admin.sql`
    - `admin_extra.sql`
 3. Enable Google Authentication in Supabase settings.
 4. Add the credentials in `supabase.js`.
